@@ -1,3 +1,1 @@
-# PracticasVision
-
-Prácticas de Visión
+# No lo veo
